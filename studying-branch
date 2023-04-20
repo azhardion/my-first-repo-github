@@ -1,0 +1,5 @@
+BRANCH
+~Membuat snapshot tanpa mengganggu jalur utama alias master branch
+~Branch ditujukan untuk membuat fitur baru pada sesuatu yang akan dibuild
+~Ketika fitur baru tidak sesuai maka branch akan dihapus tanpa mengganggu jalur utama alias master branch
+~Ketika fitur baru sesuai dan dipakai maka fitur baru ini bisa dimasukan ke dalam master branch dengan melakukan "merge"
