@@ -4,3 +4,5 @@ WPU FIRST REPO
 ~Membuat forum diskusi
 ~Tes percobaan history
 ~Mencoba fitur merge
+~Membuat branch 2
+~~Bagaimana setelah dimerge ketika ada 2 branch
